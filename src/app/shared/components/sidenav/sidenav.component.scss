@@ -1,0 +1,44 @@
+$primary: rgba(155, 81, 224, 0.3);
+.example-container {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    flex: 1;
+    height: 100%;
+  }
+  
+
+  .content{
+      display: inline-block;
+      width: 100%;
+      height: 100%;
+  }
+
+  mat-sidenav-container{
+      height: 100%;
+  }
+  .mat-list-base{
+    padding-top: 0;
+  }
+  mat-sidenav{
+    min-width: 96px;
+  }
+
+  .list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    flex: 1 0 auto;
+    .link{
+      padding: 10px;
+      width: 100%;
+    }
+    .router-link-active{
+      background-color: $primary;
+    }
+  }

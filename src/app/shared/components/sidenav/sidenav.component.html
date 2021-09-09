@@ -1,0 +1,13 @@
+<mat-sidenav-container class="example-sidenav-container" [hasBackdrop]="true" [style.marginTop.px]="0">
+    <mat-sidenav [mode]="'over'"   [opened]="opened" [fixedInViewport]="mobileQuery.matches"
+        fixedTopGap="56">
+        <mat-nav-list class="list">
+            <a class="link" [routerLink]="['/Conversor']" routerLinkActive="router-link-active" (click)="toggle()" (keyup.enter)="toggle()">Conversor</a>
+            <a class="link" [routerLink]="['/Porcentagem']" routerLinkActive="router-link-active" (click)="toggle()" (keyup.enter)="toggle()" >Porcentagem</a>
+        </mat-nav-list>
+    </mat-sidenav>
+
+    <mat-sidenav-content class="content">
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
+</mat-sidenav-container>
