@@ -7,7 +7,7 @@
   "background_color": "#fafafa",
   "scope": "/",
   "display": "fullscreen",
-  "start_url": "./",
+  "start_url": "/",
   "description": "Learn and Keep Up With The Angular Ecosystem",
   "orientation": "any",
   "related_applications": [],
