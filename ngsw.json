@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1631922917892,
-  "index": "/index.html",
+  "timestamp": 1631923109753,
+  "index": "https://kesleyksl.github.io/conversor/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/715.2009fa5e2bf86c5479fb.js",
-        "/904.7edcd10af302b0f71e13.js",
-        "/favicon.ico",
-        "/index.html",
-        "/main.2c3589a69fbf38900df8.js",
-        "/manifest.webmanifest",
-        "/polyfills.3fdce6fa384013ae58da.js",
-        "/runtime.0679fb1fe1978aaf7c0c.js",
-        "/styles.ba0d8288ee89fc233ffc.css"
+        "https://kesleyksl.github.io/conversor/715.2009fa5e2bf86c5479fb.js",
+        "https://kesleyksl.github.io/conversor/904.7edcd10af302b0f71e13.js",
+        "https://kesleyksl.github.io/conversor/favicon.ico",
+        "https://kesleyksl.github.io/conversor/index.html",
+        "https://kesleyksl.github.io/conversor/main.2c3589a69fbf38900df8.js",
+        "https://kesleyksl.github.io/conversor/manifest.webmanifest",
+        "https://kesleyksl.github.io/conversor/polyfills.3fdce6fa384013ae58da.js",
+        "https://kesleyksl.github.io/conversor/runtime.0679fb1fe1978aaf7c0c.js",
+        "https://kesleyksl.github.io/conversor/styles.ba0d8288ee89fc233ffc.css"
       ],
       "patterns": []
     },
@@ -31,37 +31,37 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://kesleyksl.github.io/conversor/assets/icons/icon-128x128.png",
+        "https://kesleyksl.github.io/conversor/assets/icons/icon-144x144.png",
+        "https://kesleyksl.github.io/conversor/assets/icons/icon-152x152.png",
+        "https://kesleyksl.github.io/conversor/assets/icons/icon-192x192.png",
+        "https://kesleyksl.github.io/conversor/assets/icons/icon-384x384.png",
+        "https://kesleyksl.github.io/conversor/assets/icons/icon-512x512.png",
+        "https://kesleyksl.github.io/conversor/assets/icons/icon-72x72.png",
+        "https://kesleyksl.github.io/conversor/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/715.2009fa5e2bf86c5479fb.js": "a0e9ac83060a5296f4bc94fd4803f45038e9c174",
-    "/904.7edcd10af302b0f71e13.js": "94cfe985a30fe15990e627d12605351e8212876e",
-    "/assets/icons/icon-128x128.png": "e9f48b3beb3a00a6bd7839e2476dd24e8ae33c12",
-    "/assets/icons/icon-144x144.png": "df9501a64daebac940656a7722c262003e7fbe5f",
-    "/assets/icons/icon-152x152.png": "47e466a883823145e86d9cad5b0ef2272781e577",
-    "/assets/icons/icon-192x192.png": "275b8e7ef9a2906eea6f678eeca5ab2abd151a0d",
-    "/assets/icons/icon-384x384.png": "7c75274eff8b7e8747fd724ae03df7154267f650",
-    "/assets/icons/icon-512x512.png": "7c75274eff8b7e8747fd724ae03df7154267f650",
-    "/assets/icons/icon-72x72.png": "8cb84e502d12c15e45add0ec61560b96acfc95a0",
-    "/assets/icons/icon-96x96.png": "d3cac09cea61bf9f81a16ab10af44dde3dc20356",
-    "/favicon.ico": "6630c07d39ce9260e24dbc1f077b82edf3b0bd57",
-    "/index.html": "e855d3e72c65522a48423e2606fadffcbacc2a82",
-    "/main.2c3589a69fbf38900df8.js": "a74c5e1a177fffd784894872d4faaee3fca9b01b",
-    "/manifest.webmanifest": "47f4b685cd1327f7430dd43239175a8656e8138a",
-    "/polyfills.3fdce6fa384013ae58da.js": "769852353890245f5115a3fb5c8b2ee15a45d49b",
-    "/runtime.0679fb1fe1978aaf7c0c.js": "b7b50527765647a830bdeae290505cc12cd47774",
-    "/styles.ba0d8288ee89fc233ffc.css": "a24d2c83eecf9bec56cc6e6a8928739b685f5a2e"
+    "https://kesleyksl.github.io/conversor/715.2009fa5e2bf86c5479fb.js": "a0e9ac83060a5296f4bc94fd4803f45038e9c174",
+    "https://kesleyksl.github.io/conversor/904.7edcd10af302b0f71e13.js": "94cfe985a30fe15990e627d12605351e8212876e",
+    "https://kesleyksl.github.io/conversor/assets/icons/icon-128x128.png": "e9f48b3beb3a00a6bd7839e2476dd24e8ae33c12",
+    "https://kesleyksl.github.io/conversor/assets/icons/icon-144x144.png": "df9501a64daebac940656a7722c262003e7fbe5f",
+    "https://kesleyksl.github.io/conversor/assets/icons/icon-152x152.png": "47e466a883823145e86d9cad5b0ef2272781e577",
+    "https://kesleyksl.github.io/conversor/assets/icons/icon-192x192.png": "275b8e7ef9a2906eea6f678eeca5ab2abd151a0d",
+    "https://kesleyksl.github.io/conversor/assets/icons/icon-384x384.png": "7c75274eff8b7e8747fd724ae03df7154267f650",
+    "https://kesleyksl.github.io/conversor/assets/icons/icon-512x512.png": "7c75274eff8b7e8747fd724ae03df7154267f650",
+    "https://kesleyksl.github.io/conversor/assets/icons/icon-72x72.png": "8cb84e502d12c15e45add0ec61560b96acfc95a0",
+    "https://kesleyksl.github.io/conversor/assets/icons/icon-96x96.png": "d3cac09cea61bf9f81a16ab10af44dde3dc20356",
+    "https://kesleyksl.github.io/conversor/favicon.ico": "6630c07d39ce9260e24dbc1f077b82edf3b0bd57",
+    "https://kesleyksl.github.io/conversor/index.html": "48fbd33588def457e7d86ee17654cc9747b8d7ed",
+    "https://kesleyksl.github.io/conversor/main.2c3589a69fbf38900df8.js": "a74c5e1a177fffd784894872d4faaee3fca9b01b",
+    "https://kesleyksl.github.io/conversor/manifest.webmanifest": "47f4b685cd1327f7430dd43239175a8656e8138a",
+    "https://kesleyksl.github.io/conversor/polyfills.3fdce6fa384013ae58da.js": "769852353890245f5115a3fb5c8b2ee15a45d49b",
+    "https://kesleyksl.github.io/conversor/runtime.0679fb1fe1978aaf7c0c.js": "b7b50527765647a830bdeae290505cc12cd47774",
+    "https://kesleyksl.github.io/conversor/styles.ba0d8288ee89fc233ffc.css": "a24d2c83eecf9bec56cc6e6a8928739b685f5a2e"
   },
   "navigationUrls": [
     {
