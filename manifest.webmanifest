@@ -5,7 +5,7 @@
   "short_name": "Conversor",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
-  "scope": "/",
+  "scope": "./",
   "display":"standalone",
   "start_url": "https://kesleyksl.github.io/conversor/",
   "related_applications": [],

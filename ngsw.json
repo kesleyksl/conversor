@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1631923986591,
+  "timestamp": 1631924163826,
   "index": "https://kesleyksl.github.io/conversor/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "https://kesleyksl.github.io/conversor/904.7edcd10af302b0f71e13.js",
         "https://kesleyksl.github.io/conversor/favicon.ico",
         "https://kesleyksl.github.io/conversor/index.html",
-        "https://kesleyksl.github.io/conversor/main.51a19dbce6ceaee4d76c.js",
+        "https://kesleyksl.github.io/conversor/main.918d09a6b657c2cf6f55.js",
         "https://kesleyksl.github.io/conversor/manifest.webmanifest",
         "https://kesleyksl.github.io/conversor/polyfills.3fdce6fa384013ae58da.js",
         "https://kesleyksl.github.io/conversor/runtime.0679fb1fe1978aaf7c0c.js",
@@ -56,9 +56,9 @@
     "https://kesleyksl.github.io/conversor/assets/icons/icon-72x72.png": "8cb84e502d12c15e45add0ec61560b96acfc95a0",
     "https://kesleyksl.github.io/conversor/assets/icons/icon-96x96.png": "d3cac09cea61bf9f81a16ab10af44dde3dc20356",
     "https://kesleyksl.github.io/conversor/favicon.ico": "6630c07d39ce9260e24dbc1f077b82edf3b0bd57",
-    "https://kesleyksl.github.io/conversor/index.html": "67fecf54515b52564100d2065fedc729c1446be2",
-    "https://kesleyksl.github.io/conversor/main.51a19dbce6ceaee4d76c.js": "9f8b89500ee9ffc16100174a0646d579777d8361",
-    "https://kesleyksl.github.io/conversor/manifest.webmanifest": "47f4b685cd1327f7430dd43239175a8656e8138a",
+    "https://kesleyksl.github.io/conversor/index.html": "5b642ad5e2ff6eed5f370f5dfa75696893b39be4",
+    "https://kesleyksl.github.io/conversor/main.918d09a6b657c2cf6f55.js": "f409e204ddf489b0847043a89aefda5260a8742e",
+    "https://kesleyksl.github.io/conversor/manifest.webmanifest": "6f5c8634c017e4819e278620814624b22374731d",
     "https://kesleyksl.github.io/conversor/polyfills.3fdce6fa384013ae58da.js": "769852353890245f5115a3fb5c8b2ee15a45d49b",
     "https://kesleyksl.github.io/conversor/runtime.0679fb1fe1978aaf7c0c.js": "b7b50527765647a830bdeae290505cc12cd47774",
     "https://kesleyksl.github.io/conversor/styles.ba0d8288ee89fc233ffc.css": "a24d2c83eecf9bec56cc6e6a8928739b685f5a2e"
